@@ -1,0 +1,9 @@
+name: wine-quality
+dependencies:
+  - numpy
+  - pandas
+  - jupyterlab
+  - keras
+  - matplotlib
+  - seaborn
+  - scipy
