@@ -7,3 +7,12 @@ dependencies:
   - matplotlib
   - seaborn
   - scipy
+  - tqdm
+  - sklearn
+  - pip:
+      - ann_visualizer
+      - pydot
+      - graphviz
+      - h5py
+      - python-pptx
+  
