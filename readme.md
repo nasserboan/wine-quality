@@ -9,6 +9,8 @@ For this project I chose the Wine Quality dataset that describe more than 4898 d
 
 > dataset link : https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
+### /reports/questao1-NSB.ipynb is the main file you're looking for ;)
+
 ## Project Structure
 
 ```
